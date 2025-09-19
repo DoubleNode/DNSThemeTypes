@@ -34,14 +34,14 @@ Once you have your Swift package set up, adding Alamofire as a dependency is as 
 
 ```swift
 dependencies: [
-.package(url: "https://github.com/DoubleNode/DNSThemeTypes.git", from: "1.12.0")
+.package(url: "https://github.com/DoubleNode/DNSThemeTypes.git", from: "1.12.1")
 ]
 ```
 
 ## Dependencies
 
 -   DNSCore v1.12.0+
--   SFSymbol v2.3.0+
+-   SFSymbol v3.0.1+
 
 ## Credits
 
